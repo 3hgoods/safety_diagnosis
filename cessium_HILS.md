@@ -7,4 +7,9 @@
 - This system uses Cesiumjs, jMAVsim, dronekit, and ROS.
 
 
+- https://www.chasemurray.com/publications/
+
+- https://www.chasemurray.com/research/180-2/
+- https://github.com/orgs/optimatorlab/repositories
+
 ```
