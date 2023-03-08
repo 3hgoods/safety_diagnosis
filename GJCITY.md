@@ -16,3 +16,11 @@
 - https://www.gjdream.com/news/articleView.html?idxno=610342
 
 ```
+
+
+### 터파기 공사 분쟁 ( 분쟁조정등 아이디어가 필요)
+
+```
+- https://www.gjdream.com/news/articleView.html?idxno=615282
+
+```
